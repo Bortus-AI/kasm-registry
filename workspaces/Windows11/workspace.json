@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Windows11",
+  "image_src": "blob:https://bortus-ai.github.io/8bcdb6a2-98ba-41a8-925b-6cb187abe7cd",
+  "description": null,
+  "name": "dockurr/windows:latest",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
